@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kumarrishi/customer-segmentation/target/scala-2.12/customer-segmentation_2.12-1.0.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kumarrishi/customer-segmentation/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kumarrishi/customer-segmentation/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kumarrishi/customer-segmentation/target/scala-2.12/classes/DataLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kumarrishi/customer-segmentation/target/scala-2.12/classes/DataLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,6 @@
+segment,customers,total_GBP,avg_spend_GBP,avg_recency_days
+Champion,1227,5770006.0,4703.0,12.6
+Regular Customer,691,1168155.0,1691.0,59.3
+At-Risk Customer,856,647301.0,756.0,227.8
+New / One-Time,1508,594043.0,394.0,99.2
+Loyal Customer,49,298652.0,6095.0,39.7

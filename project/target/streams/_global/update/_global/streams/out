@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0mjline-2.14.6.jar no longer exists at /home/kumarrishi/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = false, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/kumarrishi/customer-segmentation/project/"), "customer-segmentation-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating customer-segmentation-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved customer-segmentation-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of customer-segmentation-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of customer-segmentation-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/kumarrishi/customer-segmentation/project/"), "customer-segmentation-build")[0m
